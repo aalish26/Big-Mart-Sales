@@ -19,3 +19,6 @@ The *'Big Mart Predictive Sales Report'* accompanies this code and demonstrates 
 
 This research article was used to support intial understanding of machine learning models. 
 [Link](https://www.researchgate.net/profile/Vladimir-Nasteski/publication/328146111_An_overview_of_the_supervised_machine_learning_methods/links/5c1025194585157ac1bba147/An-overview-of-the-supervised-machine-learning-methods.pdf)
+
+
+hey emma and kaz
